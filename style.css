@@ -1,0 +1,29 @@
+:root{
+    --primaryColor : #e2e2f2;
+    --secondaryColor : #269dcc;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .navBar{
+    background-color: var(--secondaryColor);
+    height: 80px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+} */
+
+.navBar{
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    padding: 100px;
+}
+
+#calculer{
+    width: 100px;
+}
